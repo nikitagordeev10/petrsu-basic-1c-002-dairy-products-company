@@ -8,6 +8,8 @@
 
 Методика испытаний - <https://github.com/nikitagordeev10/petrsu-software-standardization-005-test-program>  
 
+Верификация программного обеспечения - <https://github.com/nikitagordeev10/petrsu-software-verification>  
+
 Паспорт программы - <https://github.com/nikitagordeev10/petrsu-software-standardization-006-program-passport>   
 
 
