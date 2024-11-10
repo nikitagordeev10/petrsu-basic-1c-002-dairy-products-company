@@ -1,3 +1,22 @@
+Модель предметной области - <https://github.com/nikitagordeev10/petrsu-software-standardization-001-domain-model>  
+
+Техническое задание - <https://github.com/nikitagordeev10/petrsu-software-standardization-002-technical-task>  
+
+Общее описание системы - <https://github.com/nikitagordeev10/petrsu-software-standardization-003-general-system-description>  
+
+Руководство пользователя - <https://github.com/nikitagordeev10/petrsu-software-standardization-004-user-manual>  
+
+Методика испытаний - <https://github.com/nikitagordeev10/petrsu-software-standardization-005-test-program>  
+
+Паспорт программы - <https://github.com/nikitagordeev10/petrsu-software-standardization-006-program-passport>   
+
+
+
+
+
+
+
+
 # Автоматизация Предприятия Молочной Продукции
 
 ## ТЗ 
